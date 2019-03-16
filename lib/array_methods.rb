@@ -1,24 +1,24 @@
 def using_include(array, element)
-array = ["wow","I","really","learning", "Arrays!"]
+Arrays = ["wow","I","really","learning", "Arrays!"]
 array.include?("I", "Tardis")
 end
 
 def using_sort(array)
-array.sort
+Array.sort
 end
 
 def using_reverse(array)
-array.reverse
+Array.reverse
 end
 
 def using_first(array)
-array.first
+Array.first
 end
 
 def using_last(array)
-array.last
+Array.last
 end
 
 def using_size(array)
-array.size
+Array.size
 end
