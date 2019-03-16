@@ -4,7 +4,7 @@ age.include?(25)
 end
 
 def using_sort(array)
-
+age.sort
 end
 
 def using_reverse(array)
