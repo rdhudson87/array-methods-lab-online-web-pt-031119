@@ -1,10 +1,10 @@
 def using_include(array, element)
 array = ["wow","I","really","learning", "Arrays!"]
-array.
+array.include?("I", "really")
 end
 
 def using_sort(array)
-age =[25,25,26,27]
+
 end
 
 def using_reverse(array)
