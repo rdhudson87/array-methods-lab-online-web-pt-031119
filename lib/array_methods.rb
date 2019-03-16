@@ -4,24 +4,21 @@ array.include?("I", "really")
 end
 
 def using_sort(array)
-
+array.sort
 end
 
 def using_reverse(array)
-age = [25,24,26,27]
+array.reverse
 end
 
 def using_first(array)
-age = [25,24,26,27]
-age.first
+array.first
 end
 
 def using_last(array)
-age = [25,24,26,27]
-age.last
+array.last
 end
 
 def using_size(array)
-age = [25,24,26,27]
-age.last
+array.size
 end
