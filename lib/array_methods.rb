@@ -1,6 +1,6 @@
 def using_include(array, element)
 age = [24,25,26,27]
-age.incude
+age.include?
 end
 
 def using_sort(array)
