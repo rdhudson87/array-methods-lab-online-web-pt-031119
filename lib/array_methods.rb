@@ -12,13 +12,13 @@ age.reverse
 end
 
 def using_first(array)
-age.
+age.first
 end
 
 def using_last(array)
-
+age.last
 end
 
 def using_size(array)
-
+age.
 end
