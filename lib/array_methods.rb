@@ -20,5 +20,5 @@ age.last
 end
 
 def using_size(array)
-age.
+age.last
 end
