@@ -1,5 +1,5 @@
 def using_include(array, element)
-array = [24,25,26,27]
+array = ["wow",,26,27]
 end
 
 def using_sort(array)
